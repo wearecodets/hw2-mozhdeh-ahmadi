@@ -28,6 +28,8 @@ If it's your first time working on this project, run `npm install`. Otherwise, j
 
 Connect this Github repo's `master` branch to Netlify and customize the domain URL to have the same name as this homework repo – for example: `http://hw2-niko.netlify.com`. From now on, every merged PR will trigger a deployment to this URL. When you are done, [add a status badge](https://www.netlify.com/docs/continuous-deployment/#status-badges) below this line:
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c75b689a-66e7-400a-9024-3e7f088d23dc/deploy-status)](https://app.netlify.com/sites/homework2mozhdeh-ahmadi/deploys)
+
 ### 2. Payment Total Bug
 
 Many angry customers reported that the payment form only shows zero amount despite the payment plan selected (annually or monthly). Your boss told you to debug the issue so the company can start making money again. He wanted to make sure that the total amount is calculated correctly. Additionally, he said that the total needs to show up in two different places in the form.
